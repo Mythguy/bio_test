@@ -1,5 +1,5 @@
 # Francis
 ## James
 ### Rosalind
--This is a merge conflict example
 
+Definitely had no merge conflicts here lol
